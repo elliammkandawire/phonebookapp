@@ -12,7 +12,7 @@
 * Open folder `phonebook-api/deploy`
 * Open command prompt in the folder and run with command `java -jar phonebook-0.0.1.jar`
 * This console should be up and running
-* If everything is in order, the api will be up and running and will create a table called `contact` in the database where contacts will bbeb saved
+* If everything is in order, the api will be up and running and will create a table called `contact` in the database where contacts will be saved
 
 
 ## 2. PHONE BOOK CLIENT
