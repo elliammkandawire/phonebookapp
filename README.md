@@ -21,7 +21,7 @@
 * Install the packages with command `yarn install`
 * Run the app with command `yarn start`. This will run the app on default port 3000 or ask you to change if port 3000 is taken.
 * Open browser and type `http://127.0.0.1:3000` to access the app
-* If the API is up and running, you should get a page where you can add contact
+* If the API is up and running, you should get a page where you can add contact, edit an existing contact by clicking on contact name, delete a contact
 
 
 
