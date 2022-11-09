@@ -1,5 +1,10 @@
 # phonebookapp app
 
+##Tools to have
+* Java 11 or Above
+* Node.js v17.4.0
+* Yarn 1.22.19 or NPM
+
 ## 1. PHONE BOOK API
 * Open the folder called `phonebook-api` in the repository
 * Create an empty mysql database called `phonebook`
